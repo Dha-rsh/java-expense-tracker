@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/*
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+select,
+textarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input[type="submit"],
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover,
+button:hover {
+    background-color: #2980b9;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+table.expense-table {
+    width: 600px;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.expense-table th,
+.expense-table td {
+	width:20%;
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+.expense-table th {
+    background-color: #f9fbfc;
+    font-weight: 600;
+}
+*/
+/*
+ul.expense-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.expense-list li {
+    background-color: #ecf6fd;
+    margin-bottom: 12px;
+    padding: 12px 18px;
+    border-left: 5px solid #3498db;
+    border-radius: 6px;
+    font-size: 16px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.08);
+    transition: background-color 0.3s ease;
+}
+
+ul.expense-list li:hover {
+    background-color: #d9effc;
+}
+*/
